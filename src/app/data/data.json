@@ -1,0 +1,145 @@
+[
+  {
+    "_id": "5aa02976a624b9875c1352dd",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Roberson",
+      "last": "Peterson"
+    },
+    "warning": false,
+    "players": 250,
+    "maxPlayers": 378
+  },
+  {
+    "_id": "5aa02976c0d4f68e6d5c2474",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Susana",
+      "last": "Scott"
+    },
+    "warning": true,
+    "players": 147,
+    "maxPlayers": 382
+  },
+  {
+    "_id": "5aa02976b27c9dadf05a931b",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Chan",
+      "last": "Lloyd"
+    },
+    "warning": false,
+    "players": 386,
+    "maxPlayers": 321
+  },
+  {
+    "_id": "5aa029765bbf9f3dcfa57c9c",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Madden",
+      "last": "Martinez"
+    },
+    "warning": true,
+    "players": 317,
+    "maxPlayers": 451
+  },
+  {
+    "_id": "5aa02976a7cff2c87c4c87ca",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Casey",
+      "last": "Calderon"
+    },
+    "warning": true,
+    "players": 340,
+    "maxPlayers": 401
+  },
+  {
+    "_id": "5aa02976800f5749c0c6da8d",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Marcie",
+      "last": "Potter"
+    },
+    "warning": true,
+    "players": 92,
+    "maxPlayers": 480
+  },
+  {
+    "_id": "5aa029760d0e4025c33f41e0",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Sharp",
+      "last": "Marquez"
+    },
+    "warning": true,
+    "players": 85,
+    "maxPlayers": 455
+  },
+  {
+    "_id": "5aa029761f87271626103379",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Meredith",
+      "last": "Knowles"
+    },
+    "warning": true,
+    "players": 149,
+    "maxPlayers": 333
+  },
+  {
+    "_id": "5aa02976d6521dad1b2baa7a",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Kim",
+      "last": "Guzman"
+    },
+    "warning": true,
+    "players": 251,
+    "maxPlayers": 393
+  },
+  {
+    "_id": "5aa029769f1ca5a24856230c",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Schmidt",
+      "last": "Nieves"
+    },
+    "warning": false,
+    "players": 373,
+    "maxPlayers": 333
+  },
+  {
+    "_id": "5aa029763a0ea557529c74ef",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Delia",
+      "last": "Kennedy"
+    },
+    "warning": true,
+    "players": 274,
+    "maxPlayers": 446
+  },
+  {
+    "_id": "5aa029764a013a0a70ce87f7",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Juliet",
+      "last": "Albert"
+    },
+    "warning": false,
+    "players": 359,
+    "maxPlayers": 384
+  },
+  {
+    "_id": "5aa02976b46d508d9ddc6911",
+    "type": "http://placehold.it/32x32",
+    "name": {
+      "first": "Vivian",
+      "last": "Briggs"
+    },
+    "warning": false,
+    "players": 75,
+    "maxPlayers": 490
+  }
+]
