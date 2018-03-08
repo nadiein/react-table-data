@@ -52,8 +52,12 @@ export class Main extends Component {
 
         return (
             <div className="d-flex align-items-center justify-content-center">
-                <ReactTable data={data} columns={columns}
-              />
+                <ReactTable data={data} 
+                            columns={columns}
+                            getTrProps={(state, rowInfo, column, instance) => ({
+                                onClick: e => console.log('A row was clicked!')
+                            })}
+                />
             </div>
         );
     }
